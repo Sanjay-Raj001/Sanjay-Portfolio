@@ -53,7 +53,7 @@ function Hero() {
                             whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
                             className='z-10 cursor-pointer font-bold primary-color md:w-auto p-4 border 
                              rounded-xl'
-                            href="/SANJAY RAJ RESUME.pdf"  // Path to your CV in the public folder
+                            href="SANJAY RAJ RESUME.pdf"  // Path to your CV in the public folder
                             download="SANJAY RAJ RESUME.pdf"  // The name of the downloaded file
                         >
                             Download CV
